@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.gguf
+*.part
+runtime/
+_Personal.gitignore/
+

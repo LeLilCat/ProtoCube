@@ -1,0 +1,43 @@
+{
+    "folder-color.favoriteColors": [
+        "foldercolorizer.color_0000ff",
+        "foldercolorizer.color_875f00",
+        "foldercolorizer.color_5fd700",
+        "foldercolorizer.color_d75f00",
+        "foldercolorizer.color_ff00af",
+        "foldercolorizer.color_875fd7",
+        "foldercolorizer.color_ff0000",
+        "foldercolorizer.color_ffffd7",
+        "foldercolorizer.color_d7d700"
+    ],
+    "folder-color.pathColors": [
+        {
+            "folderPath": "ProtoCube\\models\\",
+            "color": "foldercolorizer.color_00af00"
+        },
+        {
+            "folderPath": "ProtoCube\\brains\\",
+            "isFolderOnly": true,
+            "color": "foldercolorizer.color_ff0087"
+        },
+        {
+            "folderPath": "ProtoCube\\brains\\deep\\",
+            "isFolderOnly": true,
+            "color": "foldercolorizer.color_000087"
+        },
+        {
+            "folderPath": "ProtoCube\\brains\\casual\\",
+            "isFolderOnly": true,
+            "color": "foldercolorizer.color_0087ff"
+        },
+        {
+            "folderPath": "ProtoCube\\brains\\smart\\",
+            "isFolderOnly": true,
+            "color": "foldercolorizer.color_5fff00"
+        },
+        {
+            "filePath": "ProtoCube\\config.py",
+            "color": "foldercolorizer.color_808000"
+        }
+    ]
+}

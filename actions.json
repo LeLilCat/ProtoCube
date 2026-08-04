@@ -1,0 +1,16 @@
+{
+  "actions": {
+    "open_project_folder": {
+      "enabled": true,
+      "type": "open_folder",
+      "path": ".",
+      "description": "the ProtoCube project folder"
+    },
+    "open_actions_folder": {
+      "enabled": true,
+      "type": "open_folder",
+      "path": "actions",
+      "description": "the ProtoCube actions folder"
+    }
+  }
+}

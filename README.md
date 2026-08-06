@@ -1,6 +1,6 @@
 # ProtoCube
 
-Virtual pet assistance that's goofing around on your desktop!
+A lightweight Virtual pet assistant that's goofing around on your desktop!
 
 ### Features:
 - Modular assets/model: All assets inside the "assets" folder can be replaced with your own. (png, wepb, animated gif, and go on!) And use your own .gguf files for your ProtoCube's brain.
